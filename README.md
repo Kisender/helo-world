@@ -1,4 +1,4 @@
 # helo-world
 20180313_création
-Bonjour,
-Ceci est le premier changement dans la branche
+Suppression des lignes précédentes pour avoir une trace dans la comparaison
+Cette ligne et celle du dessus sont des ajout
